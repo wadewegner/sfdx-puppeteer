@@ -12,7 +12,7 @@ yarn install
 
 ## Run
 
-Ensure you've logged into a your Developer Hub and designated it it accordingly. You can confirm by running `sfdx force:config:list` in the project and ensuring the `defaultdevhubusername` is set.
+Ensure you've logged into your Developer Hub and designated it accordingly. You can confirm by running `sfdx force:config:list` in the project and ensuring the `defaultdevhubusername` is set.
 
 Then run the script:
 
